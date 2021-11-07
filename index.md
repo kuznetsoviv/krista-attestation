@@ -58,13 +58,13 @@ kuznetsoviv@krista.ru
 <style scoped>
 img {
     float: left;
-    margin-left: 120px;
+    margin-left: 100px;
 }
 </style>
 
 # Синхронизация с НСИ
 
-![h:560px w:330px](img/algorithms/nsi_algorithm.png)
+![h:530px w:350px](img/algorithms/nsi_algorithm.png)
 ![h:350px w:560px](img/nsi/osgu_mapper.png)
 
 ---
@@ -85,13 +85,13 @@ img {
 <style scoped>
 img {
     float: left;
-    margin-left: 60px;
+    margin-left: 10px;
 }
 </style>
 
 # Контроли по web-консолидации
 
-![h:560px w:400px](img/algorithms/cons_algorithm.png)
+![h:500px w:500px](img/algorithms/cons_algorithm.png)
 ![h:450px w:600px](img/cons/cons_settings.png)
 
 ---
