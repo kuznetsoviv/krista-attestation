@@ -1,7 +1,7 @@
 const SOURCE_DIR = "diagram_src";
 const SOURCE_EXT = ".puml";
 const DEST_DIR = "img\\algorithms";
-const DEST_FORMAT = "png";
+const DEST_FORMAT = "svg";
 const FILE_NAMES = [
     "cons_algorithm",
     "nsi_algorithm"
