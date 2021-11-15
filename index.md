@@ -128,9 +128,22 @@ img {
 
 ---
 
+# Экспорт в бюджет
+
+<style scoped>
+img {
+    float: left;
+    margin-left: 130px;
+}
+</style>
+
+![h:460px w:850px](img/algorithms/budget_algorithm.svg)
+
+---
+
 # Интерфейс мониторинга приложений 
 
-![h:530px w:1100px ](img/deployment_monitoring/deployment_monitoring.png)
+![h:530px w:1100px](img/deployment_monitoring/deployment_monitoring.png)
 
 ---
 

@@ -4,7 +4,8 @@ const DEST_DIR = "img\\algorithms";
 const DEST_FORMAT = "svg";
 const FILE_NAMES = [
     "cons_algorithm",
-    "nsi_algorithm"
+    "nsi_algorithm",
+    "budget_algorithm"
 ];
 
 let plantuml = require('node-plantuml');
