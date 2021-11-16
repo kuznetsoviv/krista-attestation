@@ -9,7 +9,7 @@
     "watch": "marp --html --watch index.md"
   },
   "devDependencies": {
-    "@marp-team/marp-cli": "^1.4.1",
+    "@marp-team/marp-cli": "^1.4.2",
     "node-plantuml": "^0.9.0"
   }
 }
