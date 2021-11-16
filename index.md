@@ -150,7 +150,7 @@ img {
 # Интерфейсы пользовательских сессий
 
 ![h:230px w:1100px ](img/session_monitoring/active_user_sessions.png)
-![h:230px w:1100px ](img/session_monitoring/user_sessions_log.png)
+![h:230px w:900px ](img/session_monitoring/user_sessions_log.png)
 
 ---
 
